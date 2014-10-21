@@ -61,6 +61,7 @@ class Game
 					@try1Thrown=0
 					@try2Thrown=0
 				end
+				# end
 				
 			end
 			#b=[0]
