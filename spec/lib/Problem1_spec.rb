@@ -1,7 +1,6 @@
 require "spec_helper"
 require "problem1"
 
-
 describe "lovemac" do
   it "Runs correctly" do
     expect(lovemac(15)).to eq("HateWindows")
